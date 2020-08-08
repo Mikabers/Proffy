@@ -53,6 +53,21 @@ O projeto foi desenvolvido na trilha Discovery utilizando as seguintes tecnologi
 
 ---
 
+## ⌨ Como executar o projeto
+
+```bash
+# Clonar o repositório
+git clone https://github.com/Mikabers/Proffy.git
+# Entrar no diretório
+cd Proffy
+# Baixar as dependências
+npm i ou npm install
+# Executar o servidor
+npm run dev
+```
+
+---
+
 <div align="center">
 
 <table>
